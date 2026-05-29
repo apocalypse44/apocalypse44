@@ -1,19 +1,31 @@
 ## Hi there 👋
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=apocalypse44&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apocalypse44&layout=compact&theme=github_dark)
-<!--
-**apocalypse44/apocalypse44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
+<div align="center">
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=apocalypse44&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=apocalypse44&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img width="49%" alt="stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=apocalypse44&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=apocalypse44&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=apocalypse44&theme=default&hide_border=true" />
+  <img width="49%" alt="streak" src="https://streak-stats.demolab.com/?user=apocalypse44&theme=default&hide_border=true" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apocalypse44&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apocalypse44&theme=default&hide_border=true&layout=compact&langs_count=8" />
+  <img width="40%" alt="langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apocalypse44&theme=default&hide_border=true&layout=compact&langs_count=8" />
+</picture>
+
+</div>
+
+---
+
