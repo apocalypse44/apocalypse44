@@ -1,81 +1,82 @@
-## Hi there 👋
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Hitanshu%20Oza&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Forward%20Deployed%20Engineer&descAlignY=60&descSize=18&stroke=bb9af7&strokeWidth=1" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/apocalypse44">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Full-stack+apps+from+DB+to+UI;Forward+Deployed+Engineer;Shipping+solutions+where+customers+are" alt="Typing SVG" />
+  </a>
+</p>
 
+---
 
 ## 📊 GitHub Stats
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=apocalypse44&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=apocalypse44&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img width="49%" alt="stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=apocalypse44&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=apocalypse44&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=apocalypse44&theme=default&hide_border=true" />
-  <img width="49%" alt="streak" src="https://streak-stats.demolab.com/?user=apocalypse44&theme=default&hide_border=true" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=apocalypse44&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&rank_icon=github&bg_color=00000000" />
+    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=apocalypse44&theme=default&hide_border=true&include_all_commits=true&show_icons=true&rank_icon=github&bg_color=00000000" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=apocalypse44&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=00000000" />
+    <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apocalypse44&theme=default&hide_border=true&layout=compact&langs_count=8&bg_color=00000000" />
+  </picture>
+</p>
 
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=apocalypse44&theme=tokyonight&hide_border=true&background=00000000" />
+    <img width="70%" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=apocalypse44&theme=default&hide_border=true&background=00000000" />
+  </picture>
+</p>
 
-<div align="center">
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apocalypse44&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apocalypse44&theme=default&hide_border=true&layout=compact&langs_count=8" />
-  <img width="40%" alt="langs" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=apocalypse44&theme=default&hide_border=true&layout=compact&langs_count=8" />
-</picture>
+## 📈 Activity
 
-</div>
+<p align="center">
+  <img width="100%" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apocalypse44&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apocalypse44&theme=tokyonight" />
+  <img width="49%" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=apocalypse44&theme=tokyonight&utcOffset=5.5" />
+</p>
+
 
 ---
 
 ## ⚡ Tech Stack
 
-<div align="center">
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,php,c,cpp,dart,js,ts&theme=dark&perline=8" />
+</p>
 
-<table>
-<tr>
-<td align="center" width="50%">
+**AI / ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,java,php,c,cpp,dart,js,ts&theme=dark" />
+**Web & Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,angular,django,flask,laravel&theme=dark" />
+</p>
 
-### AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+**Database & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws&theme=dark" />
+</p>
 
-<br>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square" />
-
-</td>
-
-<td align="center" width="50%">
-
-### Web & Backend
-<img src="https://skillicons.dev/icons?i=react,nodejs,angular,django,flask,laravel&theme=dark" />
-
-### Database & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws&theme=dark" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,docker,bash&theme=dark" />
-
-<br>
-
-<img src="https://img.shields.io/badge/CI/CD-222222?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/IoT-0088CC?style=flat-square" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-
+**Tools & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,bash,githubactions&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-0088CC?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
